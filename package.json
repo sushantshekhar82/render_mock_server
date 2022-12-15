@@ -1,0 +1,23 @@
+{
+  "name": "render_mock_server",
+  "version": "1.0.0",
+  "description": "render mock server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantshekhar82/render_mock_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantshekhar82/render_mock_server/issues"
+  },
+  "homepage": "https://github.com/sushantshekhar82/render_mock_server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
