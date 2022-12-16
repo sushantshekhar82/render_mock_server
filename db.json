@@ -70,6 +70,18 @@
     "men":[],
     "temphome":[],
     "tempproduct":[],
+    "Products":[{
+      "productName": "Men White Pure Cotton T-shirt",
+      "imageLink": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2275365/2022/11/22/a3af8a2f-a385-4cb7-bf7b-e34e0925fe0d1669105782439-Roadster-Men-White--Pure-Cotton-T-shirt-7301669105781913-1.jpg",
+      "category": "Tshirt",
+      "rating": "4.2",
+      "price": "249",
+      "discount": "50",
+      "color": "white",
+      "detail": "White solid T-shirt, has a round neck, short sleeves",
+      "brand": "Roadster",
+      "id": 1
+    }],
     "home3":[
       {
         "name": "",
